@@ -135,7 +135,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     color: rgba(255, 255, 255, 0.6);
     position: absolute;
     right: 10px;
-    top: 3px;
+    top: 4px;
     cursor: pointer;
 }
 .searchbox span:hover {
