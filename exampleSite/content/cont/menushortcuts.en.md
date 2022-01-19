@@ -53,7 +53,7 @@ Example from the current website:
 
     [Languages]
     [Languages.en]
-    title = "Documentation for Hugo Learn Theme"
+    title = "Documentation for our Projects and Web Handbook"
     weight = 1
     languageName = "English"
 
